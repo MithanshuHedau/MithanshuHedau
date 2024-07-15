@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! My name is Mithanshu Hedau... and I'm a  Web Developer and Java developer from , Nagpur</h2>
+<h2 align="center">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Java Developer  from Nagpur</h2>
 
 ###
-<br/>
 
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/144697427?s=400&u=f12bc333b8212dfcc1951191483883d49c250a02&v=4"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MithanshuHedau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MithanshuHedau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
-<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,6 +27,9 @@
 
 ###
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/144697427?v=4"  />
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -37,12 +40,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<br/>
-<br/>
-<br/>
+###
 
-<div align="left">
-  A dedicated Web Developer and Java Developer from Nagpur, I'm driven to innovate and enhance digital experiences. 🌐💻 With a strong foundation in JavaScript, TypeScript, React, HTML5, CSS3, Python, and C#, I excel at developing intuitive and dynamic web applications that redefine industry standards. 🚀🌟 My journey is a blend of relentless curiosity and creative problem-solving, where I continuously explore emerging technologies to deliver cutting-edge solutions. 🔍💡 Whether I'm optimizing user interfaces or architecting robust backend systems, my goal is to translate innovative ideas into impactful realities. ✨🔧 Explore my GitHub repositories to see how I leverage technology to create seamless and engaging web experiences. 📂🎉 Let's collaborate to elevate the digital landscape together, one project at a time. 🌍🌟
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MithanshuHedau/MithanshuHedau/output/snake.svg" alt="Snake animation" />
 
 ###
