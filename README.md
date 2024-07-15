@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Java Developer  from Nagpur</h2>
+<h2 align="left">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Java Developer  from Nagpur</h2>
 
 ###
 
@@ -42,10 +42,12 @@
 
 ###
 
-<br clear="both">
+<br/>
 
 <div align="left">
-  A dedicated Web Developer and Java Developer from Nagpur, I'm driven to innovate and enhance digital experiences. 🌐💻 With a strong foundation in JavaScript, TypeScript, React, HTML5, CSS3, Python, and C#, I excel at developing intuitive and dynamic web applications that redefine industry standards. 🚀🌟 My journey is a blend of relentless curiosity and creative problem-solving, where I continuously explore emerging technologies to deliver cutting-edge solutions. 🔍💡 Whether I'm optimizing user interfaces or architecting robust backend systems, my goal is to translate innovative ideas into impactful realities. ✨🔧 Explore my GitHub repositories to see how I leverage technology to create seamless and engaging web experiences. 📂🎉 Let's collaborate to elevate the digital landscape together, one project at a time. 🌍🌟
+  <p>
+    A dedicated Web Developer and Java Developer from Nagpur, I'm driven to innovate and enhance digital experiences. 🌐💻 With a strong foundation in JavaScript, TypeScript, React, HTML5, CSS3, Python, and C#, I excel at developing intuitive and dynamic web applications that redefine industry standards. 🚀🌟   </p>
+   <p> My journey is a blend of relentless curiosity and creative problem-solving, where I continuously explore emerging technologies to deliver cutting-edge solutions. 🔍💡 Whether I'm optimizing user interfaces or architecting robust backend systems, my goal is to translate innovative ideas into impactful realities. ✨🔧 </p> Explore my GitHub repositories to see how I leverage technology to create seamless and engaging web experiences. 📂🎉 Let's collaborate to elevate the digital landscape together, one project at a time. 🌍🌟
+ 
 </div>
-
 ###
