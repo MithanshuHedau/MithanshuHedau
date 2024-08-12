@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Java Developer  from Nagpur</h2>
 
 <h3>🔭 Visit My Portfolio  at :  https://mithanshuhedau.github.io/portfolio-website/</h3>
-<h4>✨ My Resume : https://drive.google.com/file/d/1L0daAeuZbTXGpzoPDOqE2RK0prYrfHBz/view?usp=sharing  </h4>
+<h4>✨ My Resume : https://drive.google.com/file/d/1fiVj-uAArvwYwE0RhGlmIOzRta8y_QRr/view?usp=drive_link  </h4>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mithanshu.hedau/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mithanshuhedau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mithanshu-hedau-15066b282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HedauMithanshu) 
