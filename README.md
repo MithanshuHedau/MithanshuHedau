@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Java Developer </h2>
+<h2 align="center">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Programmer </h2>
 
 <h3>🔭 Visit My Portfolio  at :  https://mithanshuhedau.github.io/portfolio-website/</h3>
 <h4>✨ My Resume : https://drive.google.com/file/d/1Vm1Tb8Sh4oEEoHBcrgMvlNyKx1NNDt2u/view?usp=drive_link  </h4>
