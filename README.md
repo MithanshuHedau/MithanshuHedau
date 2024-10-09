@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Mithanshu Hedau and I'm a Passionate Web Developer and Programmer </h2>
 <h5>Open Source Contributer :  </h5>
-<h5>Hacktober Fest <img style="height:20px,margin-left:20px" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg"></h5>
+<h5>Hacktober Fest <img style="height:20px;margin-left:100px" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg"></h5>
 
 <h3>🔭 Visit My Portfolio  at :  https://mithanshuhedau.github.io/portfolio-website/</h3>
 <h4>✨ My Resume : https://drive.google.com/file/d/1rCo7I42MrQntNxMVDwLtA57LCyfp7Fjq/view?usp=sharing   </h4>
