@@ -27,6 +27,8 @@
 # 🎖️ Open Source [ Hacktoberfest'24 ]
 [![An image of @mithanshuhedau's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithanshuhedau)](https://holopin.io/@mithanshuhedau) 
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=MithanshuHedau" alt="LeetCode Badges"/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MithanshuHedau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
