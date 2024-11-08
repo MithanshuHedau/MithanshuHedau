@@ -26,7 +26,9 @@
 
 # 🎖️ Open Source [ Hacktoberfest'24 ] [ Gssoc'24 ] 
 [![An image of @mithanshuhedau's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithanshuhedau)](https://holopin.io/@mithanshuhedau) 
-	
+
+<h4> Gssoc Badges </h4>
+ 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
