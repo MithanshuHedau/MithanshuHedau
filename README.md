@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mithanshu Hedau and I'm Mern Stack Web Developer </h2>
+<h2 align="left">Hola👋! My name is Mithanshu Hedau and I'm MERN Stack and Django Web Developer </h2>
 
 <h3>🔭 Visit My Portfolio  at :   https://mithanshuhedau.github.io/portfolio-website/</h3>
 <h4>✨ My Resume : https://drive.google.com/file/d/1mfFcyx8zmffY6yBb5R8RT4A9_9yGMHft/view?usp=drive_link   </h4>
